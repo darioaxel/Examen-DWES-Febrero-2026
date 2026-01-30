@@ -1,8 +1,8 @@
 # Examen-DWES-Febrero-2026
-Este es el repositorio en el que se pondrá el examen de febrero. El día del examen, realizaré un commit con el enunciado y la estructura del proyecto base de trabajo. 
+Este es el repositorio en el que se pondrá el examen de febrero. El día del examen, realizaré un commit con el enunciado y la estructura del proyecto base de trabajo.  
 
 Para poder trabajar con github hay que tener en cuenta que muchas veces pide autenticación con 2FA (sms, email, etc) por eso, el despliegue se abrirá el fin de semana anterior al examen para que podáis hacer el clonado del repositorio y un primer pullrequest.
-  
+
 ## 1. Entrega del Examen
 
 1. Crea TU propio repo usando este template:  
