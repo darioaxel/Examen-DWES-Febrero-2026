@@ -98,3 +98,5 @@ cat ~/.ssh/id_github.pub
 git remote set-url origin git@github.com:usuario/repositorio.git
 ```
 
+
+Prueba01 - Configuración GitHub - Daniel Ponz Martinez
