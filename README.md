@@ -99,3 +99,5 @@ git remote set-url origin git@github.com:usuario/repositorio.git
 ```
 
 2. Guía paso a paso: Configurar Git en Linux para usar tu cuenta automáticamente --> Anthony Mauricio Ibarra Valencia
+
+Configuración cuenta GitHub y clave SSH definitiva de Raúl Ibuarben
